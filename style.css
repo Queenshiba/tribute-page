@@ -1,5 +1,7 @@
 body {
     background:gray;
+    margin: 0;
+    padding: 0;
 }
 
 #main {
@@ -45,6 +47,4 @@ body {
     font-weight: bold;
     font-size: 1.5em;
    
-}
-strong {
 }
